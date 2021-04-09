@@ -1,2 +1,2 @@
--ignore: { name: Use const }
+- ignore: { name: Use const }
 
