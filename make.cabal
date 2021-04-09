@@ -12,6 +12,8 @@ copyright: (c) 2020 Edward Kmett,
 stability: experimental
 category: Data Structures
 build-type: Simple
+extra-source-files:
+  .hlint.yaml
 extra-doc-files:
   README.md,
   CHANGELOG.md

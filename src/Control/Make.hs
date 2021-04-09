@@ -2,9 +2,7 @@
 {-# Language ConstraintKinds #-}
 {-# Language DefaultSignatures #-}
 {-# Language DeriveAnyClass #-}
--- {-# Language DeriveDataTypeable #-}
 {-# Language DeriveGeneric #-}
-{-# Language DerivingStrategies #-}
 {-# Language DerivingVia #-}
 {-# Language FlexibleContexts #-}
 {-# Language FlexibleInstances #-}
@@ -14,7 +12,6 @@
 {-# Language GADTs #-}
 {-# Language ImportQualifiedPost #-}
 {-# Language LambdaCase #-}
-{-# Language MultiParamTypeClasses #-}
 {-# Language OverloadedLists #-}
 {-# Language RankNTypes #-}
 {-# Language ScopedTypeVariables #-}
